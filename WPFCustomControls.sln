@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFCustomControls", "WPFCustomControls\WPFCustomControls.csproj", "{0B878C7D-ED6F-4977-B7E2-44B0C9978B18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFHotariStyles", "..\WPFHotariStyles\WPFHotariStyles\WPFHotariStyles.csproj", "{B04B947D-54A6-4E95-90C7-215E08ED0087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B878C7D-ED6F-4977-B7E2-44B0C9978B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B878C7D-ED6F-4977-B7E2-44B0C9978B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B878C7D-ED6F-4977-B7E2-44B0C9978B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B878C7D-ED6F-4977-B7E2-44B0C9978B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04B947D-54A6-4E95-90C7-215E08ED0087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04B947D-54A6-4E95-90C7-215E08ED0087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04B947D-54A6-4E95-90C7-215E08ED0087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04B947D-54A6-4E95-90C7-215E08ED0087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B3E21C-6190-42DD-BE4C-DEFE3216B7D8}
+	EndGlobalSection
+EndGlobal
